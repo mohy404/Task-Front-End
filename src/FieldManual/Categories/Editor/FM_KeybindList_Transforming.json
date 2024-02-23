@@ -1,0 +1,17 @@
+{
+  "SCR_FieldManualPiece_KeybindList {": "",
+  "m_aKeybinds {": "",
+  "SCR_FieldManualPiece_Keybind \"{56DE50CCF7BE2FB0}\" {": "",
+  "m_sKeybind \"<action name": "\\\"EditorTransformSnapToSurface\\\"/>\"",
+  "m_sDescription \"#AR-KeybindEditor_RotateEntitiesToCursor\"": "",
+  "m_eInputDisplayCondition KEYBOARD_ONLY": "",
+  "}": "",
+  "SCR_FieldManualPiece_Keybind \"{56DE50CCF7928E84}\" {": "",
+  "m_sDescription \"#AR-KeybindEditor_MoveEntitiesVertically\"": "",
+  "SCR_FieldManualPiece_Keybind \"{56DE50CCF7F4506F}\" {": "",
+  "m_sDescription \"#AR-KeybindEditor_RotateEntities\"": "",
+  "m_eInputDisplayCondition GAMEPAD_ONLY": "",
+  "SCR_FieldManualPiece_Keybind \"{56DE50CCF7CFDCBC}\" {": "",
+  "SCR_FieldManualPiece_Keybind \"{56DE50CCF721BD49}\" {": "",
+  "m_sDescription \"#AR-KeybindEditor_SnapEntitiesToSurface\"": ""
+}
